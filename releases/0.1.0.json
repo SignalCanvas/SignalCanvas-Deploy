@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "date": "2026-06-02",
+  "notes": [
+    "First iOS beta — infinite canvas signal flow on iPad",
+    "Full PatchLang round-trip: open, edit, and save .patch files",
+    "Enterprise distribution via Ceres Imaging, Inc."
+  ]
+}
